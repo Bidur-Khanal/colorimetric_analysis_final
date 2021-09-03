@@ -1,0 +1,46 @@
+avg_accuracy,remarks
+,
+0.42,"RGB,Logistic Regression, outdoor,indoor, camera1,  blue"
+,
+0.32,"RGB,SVM, outdoor,indoor, camera1,  blue"
+,
+0.28,"RGB,Random Forest, outdoor,indoor, camera1,  blue"
+0.1,"RGB,Logistic Regression, outdoor,indoor, camera1, camera2  blue"
+,
+0.1,"RGB,SVM, outdoor,indoor, camera1, camera2  blue"
+,
+0.1,"RGB,Random Forest, outdoor,indoor, camera1, camera2  blue"
+,
+0.1,"RGB,Logistic Regression, outdoor, camera1, camera2  blue"
+,
+0.1,"RGB,SVM, outdoor, camera1, camera2  blue"
+,
+0.1,"RGB,Random Forest, outdoor, camera1, camera2  blue"
+0.26,"RGB,Logistic Regression, outdoor, camera1, camera2 "
+,
+0.48,"RGB,SVM, outdoor, camera1, camera2  "
+,
+0.12,"RGB,Random Forest, outdoor, camera1, camera2  "
+,
+0.24,"RGB,Logistic Regression, outdoor, Indoor, camera1, camera2 "
+,
+0.22,"RGB,SVM, outdoor, Indoor, camera1, camera2  "
+,
+0.1,"RGB,Random Forest, outdoor, Indoor, camera1, camera2  "
+,
+0.36,"RGB,Logistic Regression, outdoor, Indoor, camera1"
+,
+0.52,"RGB,SVM, outdoor, Indoor, camera1 "
+,
+0.38,"RGB,Random Forest, outdoor, Indoor, camera1 "
+0.2,"RGB,Logistic Regression, Ref, outdoor, Indoor, camera1"
+,
+0.44,"RGB,SVM, Ref,outdoor, Indoor, camera1 "
+,
+0.36,"RGB,Random Forest,Ref, outdoor, Indoor, camera1 "
+0.3,"RGB,Logistic Regression, Ref, outdoor, Indoor, camera1, camera2"
+0.24,"RGB,SVM, Ref,outdoor, Indoor, camera1, camera2 "
+0.16,"RGB,Random Forest,Ref, outdoor, Indoor, camera1, camera2"
+0.34,"RGB,Logistic Regression, Ref, outdoor,  camera1, camera2"
+0.52,"RGB,SVM, Ref,outdoor,  camera1, camera2 "
+0.2,"RGB,Random Forest,Ref, outdoor,  camera1, camera2"

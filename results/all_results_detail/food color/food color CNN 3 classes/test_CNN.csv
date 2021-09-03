@@ -1,0 +1,4 @@
+avg_accuracy,remarks
+0.96,"RGB,CNN"
+0.9466666666666667,"HSV,CNN"
+0.9666666666666667,"LAB,CNN"

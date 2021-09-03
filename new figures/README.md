@@ -1,0 +1,1 @@
+most images contains corresponding high resolution .svg file. PNG files are all derived from high resoultion svg files.

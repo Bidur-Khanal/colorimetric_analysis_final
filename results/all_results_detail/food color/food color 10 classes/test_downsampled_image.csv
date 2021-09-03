@@ -1,0 +1,10 @@
+avg_accuracy,remarks
+0.6033333333333334,"RGB,Logistic Regression"
+0.685,"RGB,SVM"
+0.5466666666666666,"RGB,Random Forest"
+0.505,"HSV,Logistic Regression"
+0.555,"HSV,SVM"
+0.5766666666666667,"HSV,Random Forest"
+0.63,"LAB,Logistic Regression"
+0.6966666666666667,"LAB,SVM"
+0.5933333333333334,"LAB,Random Forest"

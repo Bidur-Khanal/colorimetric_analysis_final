@@ -1,0 +1,4 @@
+avg_accuracy,remarks
+0.295,"RGB,ANN"
+0.49666666666666665,"HSV,ANN"
+0.315,"LAB,ANN"
