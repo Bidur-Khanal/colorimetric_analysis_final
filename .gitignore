@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+
+# folders and files
+new_figures/general_figures
+Khanal_etal_2021_maintext.docx
+Rebuttal_1.docx
+
 __pycache__/
 *.py[cod]
 *$py.class
